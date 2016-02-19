@@ -1,5 +1,6 @@
 package newproject;
 
-public class Main {
+public class Main
+{
 
 }
